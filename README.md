@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ilya Bezrukov aka @mrckompadre
+- 👀 I am interested in web development, systems development and operating systems
+- 🌱 Now I'm studying JavaScript, Rust and frameworks for them, such as Vue or Tauri
+- 💞️ I am looking for cooperation in any projects that could bring me experience in the field of development and would be useful to society
+- 📫 tg: @mrckompadre
